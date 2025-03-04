@@ -1,25 +1,2 @@
-
-### Hi there 👋 , my name is MohamadObeid . I am from cnam university👨‍💻 taking BS in Computer Science .
-I have a big intrest in CyberSecurity 💻 and hacking 🤖 ! Currently✍ still stydying basic js and SQL .
-Currently trying to enhance my communication and leaderships skills 👨‍⚖️ , Looking to be part of the GDSC  in my uni next year .
-Skills :
-Basic Web Developpement 🌐 | Good at team work 👥  | Very Competitve
-
-
-🔭 I’m currently working on mastering Web Developpement 🖥 .
-🌱 I’m currently learning Basic JS and SQL .
- Fun fact: While most people talk about politics or economics or about technology . Most of my takling is about food ( off i eat so much 🍔🍟🍿🍞 ).
- <!--
-**MohamadObeid9/MohamadObeid9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there , i am mohamad obeid , a cs student learning full stack developement .
+Make your tea while you are enjoying surfing through my projects
